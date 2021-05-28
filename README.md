@@ -2,4 +2,4 @@
 
 A simple calculator app made with Flutter
 
-<img src="./screenshot.png" width="250">
+<img src="./ss.png" width="250">
